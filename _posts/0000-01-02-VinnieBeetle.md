@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+They say haha funny society I am tired
 Use the left arrow to go back!
